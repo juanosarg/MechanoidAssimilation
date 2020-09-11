@@ -30,7 +30,7 @@
 			<Beauty>-200</Beauty>
 		</statBases>
 		<tickerType>Normal</tickerType>
-		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 		<killedLeavings>
 			<Steel>75</Steel>
 			<Plasteel>15</Plasteel>
